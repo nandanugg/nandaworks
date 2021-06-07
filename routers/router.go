@@ -1,5 +1,1 @@
 package routers
-
-func SetupRouter() {
-
-}
